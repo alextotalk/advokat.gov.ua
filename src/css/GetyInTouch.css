@@ -1,0 +1,115 @@
+#getInTouch {
+  background-color: #f8f9fa;
+}
+#getInTouch .wrapper {
+  width: clamp(300px,100%, 1100px);
+  margin: 4rem auto 0 auto;
+  padding: 2rem 0;
+}
+#getInTouch .container {
+  display:flex;
+  flex-direction: row;
+  background-color: #fff;
+  box-shadow: 0 0 16px 1px rgb(41 41 41 / 8%);
+  padding: 1rem;
+  margin: 2rem auto;
+}
+#getInTouch .left {
+  flex-basis: 60%;
+  align-items: center;
+  justify-content: center;
+}
+#getInTouch input {
+  margin-left: 2rem;
+}
+#getInTouch .right {
+  flex-basis: 30%;
+  margin-left: 2rem;
+  margin-top: 2rem;
+  font-size: 14px;
+  color: gray;
+  line-height: 2;
+}
+#getInTouch .right span:nth-child(2) {
+  margin-left: 1rem;
+}
+#getInTouch .right span:first-child {
+  padding: 14px;
+  border-radius: 50%;
+  font-size: 24px;
+  border: 2px solid grey;
+}
+#getInTouch .icon {
+  margin: 12px;
+  padding: 8px;
+  border-radius: 50%;
+}
+#getInTouch .icon:hover {
+  background-color: #ff8700;
+  box-shadow: 0 0 0 6px rgb(255 135 0 / 15%);
+  color: #fff!important;
+  position: relative;
+}
+#getInTouch h3 {
+  color: #000;
+  font-size: 1.4rem;
+  font-weight: 580;
+}
+#getInTouch .right .content{
+  margin-left: 3.7rem;
+}
+#getInTouch .right div {
+  align-items: center;
+}
+#getInTouch #subject, #message, #getInTouch input {
+  margin: 0.4rem 1.2rem;
+  padding: 0.5rem 1rem;
+  border: 1px solid #e9e8ef;
+  border-radius: 5px;
+}
+#getInTouch input {
+  width: 44%;
+}
+#getInTouch #subject, #message {
+  width: 92%;
+}
+#getInTouch #name {
+  margin: 0.4rem 0.6rem 0.4rem 1.2rem; 
+}
+#getInTouch #email{
+  margin: 0.4rem 1.2rem 0.4rem 0.6rem;
+}
+#getInTouch input:focus, textarea:focus {
+  background-color: #f6f6f6;
+  border-color: #f3f3f3 #f3f3f3 #ff8700;
+  box-shadow: none;
+}
+#getInTouch button {
+  background-color: #ff8700;
+  color: #f3f3f3;
+  text-transform: uppercase;
+  margin: 1.2rem;
+  padding: 0.7rem 1.5rem;
+  font-size: smaller;
+  border: 1px solid #ff8700;
+  border-radius: 5px;
+}
+#getInTouch button:hover {
+  box-shadow: 0 3px 20px -8px #000;
+  cursor: pointer;
+  transform: translateY(-3px);
+}
+#getInTouch #message {
+  height: 10rem;
+}
+
+@media screen and (max-width: 620px) {
+  #getInTouch .container {
+    display:flex;
+    flex-direction: column;
+  }
+  #getInTouch #name, #getInTouch #email {
+    width: 92%;
+    margin: 0.6rem 1.2rem;
+  }
+}

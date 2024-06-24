@@ -1,6 +1,6 @@
 Github Page
 
-[https://alextotalk.github.io/advokat.gov.ua](https://alextotalk.github.io/advokat.gov.ua){:target="_blank"}
+[advokat.gov.ua](https://alextotalk.github.io/advokat.gov.ua){:target="_blank"}
 In the project directory, run:
 
 ### `npm install`

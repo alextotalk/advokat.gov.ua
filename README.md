@@ -1,6 +1,7 @@
 Github Page
 
-[advokat.gov.ua](https://alextotalk.github.io/advokat.gov.ua){:target="_blank"}
+- [advocate](https://alextotalk.github.io/advokat.gov.ua){:target="_blank"}
+
 In the project directory, run:
 
 ### `npm install`
@@ -10,3 +11,7 @@ Following command runs the app in the development mode.
 ### `npm start`
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+
+- [Google](https://www.google.com/){:target="_blank"}
+- [GitHub](https://github.com/){:target="_blank"}
+- [OpenAI](https://www.openai.com/){:target="_blank"}

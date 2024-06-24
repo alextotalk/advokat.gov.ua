@@ -1,6 +1,6 @@
 Github Page
 
-- [advocate](https://alextotalk.github.io/advokat.gov.ua?target=_blank)
+- [advokat.gov.ua](https://alextotalk.github.io/advokat.gov.ua)
 
 In the project directory, run:
 

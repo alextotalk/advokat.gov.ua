@@ -17,9 +17,9 @@ function Info() {
           <p>COMPANY</p>
           <ul>
             <li><a href="/">Monitoring Grader</a></li>
-            <li><a>Job Opening</a></li>
-            <li><a>Customers</a></li>
-            <li><a>Privacy</a></li>
+            <li><a href="#">Job Opening</a></li>
+            <li><a href="#">Customers</a></li>
+            <li><a href="#">Privacy</a></li>
           </ul>
         </div>
         <div>

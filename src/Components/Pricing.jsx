@@ -22,7 +22,7 @@ function Pricing() {
               <p>Hidden Fees: No</p>
             </div>
             <div className="buy-btn">
-              <a href="http://zooki.react.themesbrand.com/">Buy Now</a>
+              <a  href="#">Buy Now</a>
             </div>
           </div>
           <div className="price-card">
@@ -37,7 +37,7 @@ function Pricing() {
               <p>Hidden Fees: No</p>
             </div>
             <div className="buy-btn">
-              <a href="http://zooki.react.themesbrand.com/">Buy Now</a>
+              <a  href="#">Buy Now</a>
             </div>
           </div>
           <div className="price-card">
@@ -52,7 +52,7 @@ function Pricing() {
               <p>Hidden Fees: No</p>
             </div>
             <div className="buy-btn">
-              <a href="http://zooki.react.themesbrand.com/">Buy Now</a>
+              <a  href="#">Buy Now</a>
             </div>
           </div>
           <div className="price-card">
@@ -67,7 +67,7 @@ function Pricing() {
               <p>Hidden Fees: No</p>
             </div>
             <div className="buy-btn">
-              <a href="http://zooki.react.themesbrand.com/">Buy Now</a>
+              <a  href="#">Buy Now</a>
             </div>
           </div>
         </div>

@@ -13,7 +13,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://github.com/alextotalk/advokat.gov.ua",
+  "homepage": "https://alextotalk.github.io/advokat.gov.ua",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",

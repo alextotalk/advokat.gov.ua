@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/advokat.gov.ua/static/css/main.04e118d4.css",
+    "main.js": "/advokat.gov.ua/static/js/main.bc9435c3.js",
+    "static/js/787.f290db95.chunk.js": "/advokat.gov.ua/static/js/787.f290db95.chunk.js",
+    "static/media/DALL·E 2024-02-02 00.24.57 - Create an image symbolizing 'Comprehensive Legal Strategies' in a professional and corporate style. The image should convey a sense of structured and .png": "/advokat.gov.ua/static/media/DALL·E 2024-02-02 00.24.57 - Create an image symbolizing 'Comprehensive Legal Strategies' in a professional and corporate style. The image should convey a sense of structured and .05137bf3df6e76f0f466.png",
+    "static/media/DALL·E 2024-02-02 00.58.57 - Create an image symbolizing 'Legal Support for Business Development' in a professional and corporate style. The image should reflect the empowerment a.png": "/advokat.gov.ua/static/media/DALL·E 2024-02-02 00.58.57 - Create an image symbolizing 'Legal Support for Business Development' in a professional and corporate style. The image should reflect the empowerment a.dcddf884072958e03b5a.png",
+    "static/media/DALL·E 2024-02-02 00.12.17 - Create an image representing 'Legal Expertise for Business' in a corporate style. The image should evoke a sense of professionalism and expertise. Inc.png": "/advokat.gov.ua/static/media/DALL·E 2024-02-02 00.12.17 - Create an image representing 'Legal Expertise for Business' in a corporate style. The image should evoke a sense of professionalism and expertise. Inc.387d9131ee215ea4ea82.png",
+    "static/media/LOgoLawyer400x480.png": "/advokat.gov.ua/static/media/LOgoLawyer400x480.15f2efe23f9356471188.png",
+    "index.html": "/advokat.gov.ua/index.html",
+    "main.04e118d4.css.map": "/advokat.gov.ua/static/css/main.04e118d4.css.map",
+    "main.bc9435c3.js.map": "/advokat.gov.ua/static/js/main.bc9435c3.js.map",
+    "787.f290db95.chunk.js.map": "/advokat.gov.ua/static/js/787.f290db95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04e118d4.css",
+    "static/js/main.bc9435c3.js"
+  ]
+}

@@ -1,6 +1,6 @@
 Github Page
 
-- [advokat.gov.ua](https://alextotalk.github.io/advokat.gov.ua)
+- [advokat.men](https://alextotalk.github.io/advokat.gov.ua)
 
 In the project directory, run:
 

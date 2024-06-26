@@ -1,5 +1,5 @@
 #pricing {
-  height: 83vh;
+  height: 100%;
 }
 #pricing .wrapper {
   width: clamp(300px,100%, 1100px);
@@ -101,3 +101,44 @@
     margin: 0 auto;
   }
 }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+th, td {
+  padding: 12px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+th {
+  background-color: #f4f4f4;
+}
+@media (max-width: 600px) {
+  table, thead, tbody, th, td, tr {
+    display: block;
+  }
+  th, td {
+    padding: 10px;
+    border: none;
+    position: relative;
+  }
+  th {
+    background-color: transparent;
+    border-bottom: 1px solid #ddd;
+  }
+  td:before {
+    content: attr(data-label);
+    position: absolute;
+    left: 0;
+    width: 100%;
+    padding-left: 10px;
+    font-weight: bold;
+    background-color: #f4f4f4;
+  }
+  td {
+    padding-left: 50%;
+    text-align: right;
+    border-bottom: 1px solid #ddd;
+  }}

@@ -29,7 +29,7 @@ function App() {
       <Feature />
       <Pricing />
       <GetInTouch />
-      <Info />
+      {/*<Info />*/}
       <Footer />
     </>
   );

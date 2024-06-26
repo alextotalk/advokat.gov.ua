@@ -25,7 +25,7 @@ function Feature() {
             </span>
               <h3>Юридична Експертиза для Бізнесу</h3>
               <p>Наше об'єднання надає повний комплекс юридичних послуг для комерційних клієнтів, включаючи корпоративне консультування, контрактне право та комерційні судові спори. Ми розуміємо важливість захисту вашого бізнесу та забезпечуємо ефективні стратегії для досягнення ваших цілей.</p>
-               <a  className="more" href="#">LEARN MORE <FaLongArrowAltRight/></a>
+               {/*<a  className="more" href="#">LEARN MORE <FaLongArrowAltRight/></a>*/}
             </div>
             <div className="image">
               <div className="inner-image">
@@ -45,7 +45,7 @@ function Feature() {
             </span>
               <h3>Комплексні Правові Стратегії</h3>
               <p>Забезпечте собі стратегічну перевагу з нашими індивідуалізованими правовими рішеннями. Ми спеціалізуємося на розробці стратегічних підходів, які захищають і підтримують ваші довгострокові бізнес-інтереси в усіх аспектах юридичної практики.</p>
-               <a  className="more"  href="#">LEARN MORE <FaLongArrowAltRight/></a>
+               {/*<a  className="more"  href="#">LEARN MORE <FaLongArrowAltRight/></a>*/}
             </div>
           </div>
           <div className="wrapper">
@@ -55,7 +55,7 @@ function Feature() {
             </span>
               <h3>Правова Підтримка для Розвитку Бізнесу</h3>
               <p>Наші юридичні послуги спрямовані на підтримку зростання та розвитку вашого підприємства. Від стартапів до великих корпорацій, ми пропонуємо персоналізовані консультації та ведення справ, щоб ваш бізнес міг працювати безперебійно і з максимальною ефективністю.</p>
-               <a  className="more"  href="#">LEARN MORE <FaLongArrowAltRight/></a>
+               {/*<a  className="more"  href="#">LEARN MORE <FaLongArrowAltRight/></a>*/}
             </div>
             <div className="image">
               <div className="inner-image">

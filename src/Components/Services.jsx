@@ -26,7 +26,7 @@ function Services() {
                             перевірку та аналіз комерційних контрактів, правових угод та інших документів.
                             Наш підхід забезпечує юридичну точність і стратегічне бачення для захисту ваших
                             інтересів.</p>
-                        <a className="more" href="#">LEARN MORE <FaLongArrowAltRight/></a>
+                        {/*<a className="more" href="#">LEARN MORE <FaLongArrowAltRight/></a>*/}
                     </div>
                     <div className="card">
                         <div className="icon">
@@ -36,7 +36,7 @@ function Services() {
                         <p>"Пропонуємо кваліфіковану допомогу у взаємодії з державними органами,
                             включаючи подання звернень, скарг та інших офіційних документів.
                             Ми допомагаємо клієнтам навігувати складні бюрократичні процеси ефективно та своєчасно.</p>
-                        <a className="more"  href="#">LEARN MORE <FaLongArrowAltRight/></a>
+                        {/*<a className="more"  href="#">LEARN MORE <FaLongArrowAltRight/></a>*/}
                     </div>
                     <div className="card">
                         <div className="icon">
@@ -46,7 +46,7 @@ function Services() {
                         <p>Забезпечуємо професійний захист прав та інтересів клієнтів у судах всіх інстанцій.
                             Наш досвід охоплює цивільні, кримінальні та адміністративні справи,
                             забезпечуючи вам найкраще представництво.</p>
-                        <a className="more"  href="#">LEARN MORE <FaLongArrowAltRight/></a>
+                        {/*<a className="more"  href="#">LEARN MORE <FaLongArrowAltRight/></a>*/}
                     </div>
                     <div className="card">
                         <div className="icon">
@@ -59,7 +59,7 @@ function Services() {
                             вам юридичну підтримку найвищого рівня. Незалежно від складності справи, наші експерти
                             гарантують професійний супровід,
                             максимально знижуючи ризики та забезпечуючи успіх у вашій юридичній ситуації.</p>
-                        <a className="more"  href="#">LEARN MORE <FaLongArrowAltRight/></a>
+                        {/*<a className="more"  href="#">LEARN MORE <FaLongArrowAltRight/></a>*/}
                     </div>
                     <div className="card">
                         <div className="icon">
@@ -69,7 +69,7 @@ function Services() {
                         <p>Пропонуємо повний комплекс послуг, від початкової консультації до виконання рішення суду.
                             Ми беремо на себе всю
                             відповідальність за ведення справи, звільняючи клієнтів від юридичних турбот.</p>
-                        <a className="more"  href="#">LEARN MORE <FaLongArrowAltRight/></a>
+                        {/*<a className="more"  href="#">LEARN MORE <FaLongArrowAltRight/></a>*/}
                     </div>
                     <div className="card">
                         <div className="icon">
@@ -79,7 +79,7 @@ function Services() {
                         <p>Надаємо експертні юридичні консультації з різноманітних питань.
                             Наші фахівці готові надати вам інформацію,
                             що знадобиться для прийняття обґрунтованих рішень.</p>
-                        <a className="more"  href="#">LEARN MORE <FaLongArrowAltRight/></a>
+                        {/*<a className="more"  href="#">LEARN MORE <FaLongArrowAltRight/></a>*/}
                     </div>
                 </div>
             </div>

@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.b8f7bb38.css",
-    "main.js": "/static/js/main.93ba4b2c.js",
+    "main.css": "/static/css/main.97667d0e.css",
+    "main.js": "/static/js/main.54a94143.js",
     "static/js/787.f290db95.chunk.js": "/static/js/787.f290db95.chunk.js",
     "static/media/DALL·E 2024-02-02 00.24.57 - Create an image symbolizing 'Comprehensive Legal Strategies' in a professional and corporate style. The image should convey a sense of structured and .png": "/static/media/DALL·E 2024-02-02 00.24.57 - Create an image symbolizing 'Comprehensive Legal Strategies' in a professional and corporate style. The image should convey a sense of structured and .05137bf3df6e76f0f466.png",
     "static/media/DALL·E 2024-02-02 00.58.57 - Create an image symbolizing 'Legal Support for Business Development' in a professional and corporate style. The image should reflect the empowerment a.png": "/static/media/DALL·E 2024-02-02 00.58.57 - Create an image symbolizing 'Legal Support for Business Development' in a professional and corporate style. The image should reflect the empowerment a.dcddf884072958e03b5a.png",
     "static/media/DALL·E 2024-02-02 00.12.17 - Create an image representing 'Legal Expertise for Business' in a corporate style. The image should evoke a sense of professionalism and expertise. Inc.png": "/static/media/DALL·E 2024-02-02 00.12.17 - Create an image representing 'Legal Expertise for Business' in a corporate style. The image should evoke a sense of professionalism and expertise. Inc.387d9131ee215ea4ea82.png",
     "static/media/LOgoLawyer400x480.png": "/static/media/LOgoLawyer400x480.15f2efe23f9356471188.png",
     "index.html": "/index.html",
-    "main.b8f7bb38.css.map": "/static/css/main.b8f7bb38.css.map",
-    "main.93ba4b2c.js.map": "/static/js/main.93ba4b2c.js.map",
+    "main.97667d0e.css.map": "/static/css/main.97667d0e.css.map",
+    "main.54a94143.js.map": "/static/js/main.54a94143.js.map",
     "787.f290db95.chunk.js.map": "/static/js/787.f290db95.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8f7bb38.css",
-    "static/js/main.93ba4b2c.js"
+    "static/css/main.97667d0e.css",
+    "static/js/main.54a94143.js"
   ]
 }

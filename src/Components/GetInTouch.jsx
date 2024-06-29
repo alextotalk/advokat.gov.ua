@@ -54,7 +54,7 @@ function GetInTouch() {
               <span><AiOutlineMail/></span>
               <span>Email :</span>
               <br/>
-              <span className="content">a.zayets1987@gmail.com</span>
+              <span className="content">advokat.kravchenko.alex@gmail.com</span>
             </div>
             <div>
               <span><MdOutlineLocationOn/></span>

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.521c0f6b.css",
+    "main.css": "/static/css/main.db1072b5.css",
     "main.js": "/static/js/main.58f135d2.js",
     "static/js/787.f290db95.chunk.js": "/static/js/787.f290db95.chunk.js",
     "static/media/A_highly_realistic_photo_of_a_professional_legal.png": "/static/media/A_highly_realistic_photo_of_a_professional_legal.0b8dfa65beb56c2c0d90.png",
@@ -9,12 +9,12 @@
     "static/media/DALL·E 2024-02-02 00.12.17 - Create an image representing 'Legal Expertise for Business' in a corporate style. The image should evoke a sense of professionalism and expertise. Inc.png": "/static/media/DALL·E 2024-02-02 00.12.17 - Create an image representing 'Legal Expertise for Business' in a corporate style. The image should evoke a sense of professionalism and expertise. Inc.387d9131ee215ea4ea82.png",
     "static/media/LOgoLawyer400x480.png": "/static/media/LOgoLawyer400x480.15f2efe23f9356471188.png",
     "index.html": "/index.html",
-    "main.521c0f6b.css.map": "/static/css/main.521c0f6b.css.map",
+    "main.db1072b5.css.map": "/static/css/main.db1072b5.css.map",
     "main.58f135d2.js.map": "/static/js/main.58f135d2.js.map",
     "787.f290db95.chunk.js.map": "/static/js/787.f290db95.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.521c0f6b.css",
+    "static/css/main.db1072b5.css",
     "static/js/main.58f135d2.js"
   ]
 }

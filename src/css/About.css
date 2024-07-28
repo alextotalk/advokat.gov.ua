@@ -87,7 +87,8 @@
 .grid2 img {
   width: 26rem;
   height: 16rem;
-  border: 5px solid #e9eff9;
+  /*border: 5px solid #e9eff9;*/
+  border: none;
   border-radius: 5px;
   margin: 1rem;
 }

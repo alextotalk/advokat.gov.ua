@@ -8,28 +8,42 @@
     position: relative;
     font-family: Rubik, sans-serif;
     top: 0;
-}
+    display: flex;
+    flex-grow: 1;
+    align-items: center;
+ }
 
 #home .wrapper {
     margin: auto auto auto auto;
     max-width: 1050px;
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));  /* Гнучкі колонки */
     align-items: center !important;
     justify-content: center;
     padding: 7rem 0;
 }
+#home .left,
+#home .right {
+    width: 100%;  /* Вся доступна ширина */
+}
 
+.groupBtn {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
 #home .left {
     font-size: larger;
     color: #fff;
+    overflow: auto;  /* Дозволяє прокрутку */
 }
 
 #home .right {
-    display: flex; /* Добавьте display: flex */
-    align-items: center; /* Добавьте align-items: center */
-    justify-content: center; /* Добавьте justify-content: center */
-
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 #home h1 {
@@ -69,12 +83,15 @@
 }
 
 .btn {
-    background-color: #ff8700;
-    padding: 1rem;
+    background-color: #ffbf00;
+    padding: 0.5rem;
     width: 8rem;
     border-radius: 4px;
     font-size: 70%;
     text-align: center;
+    margin: 0.5rem;
+    /*color: #ffffff; !* Змініть колір на білий *!*/
+
 }
 
 #home a {
@@ -97,8 +114,4 @@
     #home .left {
         margin: -20px 1rem 1rem 1rem;
     }
-}
-.groupBtn {
-    display: flex;
-    justify-content: space-between;
 }

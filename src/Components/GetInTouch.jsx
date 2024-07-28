@@ -44,12 +44,16 @@ function GetInTouch() {
             {/*<button type="submit" value="Send Message">Відпраити повідомлення</button>*/}
           </div>
           <div className="right">
-            <div>
-              <span><FaHeadphones/></span>
-              <span>Телефон:</span>
-              <br/>
-              <span className="content">+38 (093) 848-22-48</span>
-            </div>
+            <a href="tel:+380938482248" style={{ color: 'inherit', textDecoration: 'none' }}>
+
+              <div>
+
+                <span><FaHeadphones/></span>
+                <span>Телефон:</span>
+                <br/>
+                <span className="content">+38 (093) 848-22-48</span>
+              </div>
+            </a>
             <div>
               <span><AiOutlineMail/></span>
               <span>Email :</span>

@@ -17,24 +17,50 @@ function Home() {
                         досвіду
                         та відданості вашому успіху."</p>
                     <div className="groupBtn">
-                        <div className="btn">
+                        <div>
+                            <a href="#getInTouch">
+                                <div className="btn">
+                                    <a href="#getInTouch">Запитати консультацію!</a>
+                                </div>
+                            </a>
 
-                            <a href="#getInTouch">Запитати консультацію!</a>
-                        </div>
-                        <div className="btn">
+                            <a href="tel:+380938482248">
+                                <div className="btn">
 
-                            <a href="#getInTouch">Телефонуйте !!!<br/> <span>+38 (093) 848-22-48</span>
+                                    <a href="tel:+380938482248">Телефонуйте !!!<br/> <span>+38 (093) 848-22-48</span>
+                                    </a>
+                                </div>
                             </a>
                         </div>
-                    </div>
+                        <div>
+                        <form
+                            action="https://formspree.io/xzbjobrd"
+                            method="POST"
+                        >
+                            <div>
 
+
+                                <div>
+                                    <input name={'subject'} type="text" id="subject" placeholder="Телефон"></input><br/>
+
+                                 </div>
+
+                            </div>
+
+                            <button className="btn" type={'submit'} value="Send Message">Відправити запит на телефрнний дзвінок!</button>
+                        </form>
+                     </div>
                 </div>
+
+            </div>
+            <a href="tel:+380938482248">
                 <div className="right">
                     <img src={homeLogo} alt="main"/>
                 </div>
-            </div>
-        </section>
-    )
+            </a>
+        </div>
+</section>
+)
 }
 
 export default Home
